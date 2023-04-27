@@ -42,6 +42,7 @@
 		2ED8498E29D5A61E00F569D2 /* Debouncer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ED8498D29D5A61E00F569D2 /* Debouncer.swift */; };
 		2ED8499029D6BC3500F569D2 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ED8498F29D6BC3500F569D2 /* Constants.swift */; };
 		2EDF52A429C4826B0011BAC6 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2EDF52A629C4826B0011BAC6 /* Localizable.strings */; };
+		2EE71EEE29FAB2AC00AE2913 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2EE71EED29FAB2AC00AE2913 /* README.md */; };
 		55F3A94D29C8DF9000B9E49B /* FilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55F3A94C29C8DF9000B9E49B /* FilterView.swift */; };
 /* End PBXBuildFile section */
 
@@ -102,6 +103,7 @@
 		2ED8498F29D6BC3500F569D2 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		2EDF52A529C4826B0011BAC6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		2EDF52A729C482810011BAC6 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		2EE71EED29FAB2AC00AE2913 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		55F3A94C29C8DF9000B9E49B /* FilterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -257,6 +259,7 @@
 				2E3A166D29C44C7C00278450 /* RickAndMortypedia */,
 				2E3A167E29C44C7E00278450 /* RickAndMortypediaTests */,
 				2E3A168829C44C7E00278450 /* RickAndMortypediaUITests */,
+				2EE71EED29FAB2AC00AE2913 /* README.md */,
 				2E3A166C29C44C7C00278450 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -618,6 +621,7 @@
 			files = (
 				2E3A167629C44C7D00278450 /* Preview Assets.xcassets in Resources */,
 				2EDF52A429C4826B0011BAC6 /* Localizable.strings in Resources */,
+				2EE71EEE29FAB2AC00AE2913 /* README.md in Resources */,
 				2E3A167329C44C7D00278450 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

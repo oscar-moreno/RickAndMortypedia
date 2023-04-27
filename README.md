@@ -27,7 +27,7 @@
 * Layouts
 * Dependency Injection
 * Async await
-* Unit Test
+* Unit Test (with Mocks)
 * UI Test
 
 ## How To Use
