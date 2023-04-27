@@ -1,0 +1,28 @@
+//
+//  Localizable.strings
+//  RickAndMortypedia
+//
+//  Created by Óscar Moreno.
+//
+//
+
+"home_view_title" = "Rick & Morty";
+"search_prompt" = "Search caracter...";
+"warning_title" = "Warning";
+"data_not_available" = "Data not available now.\nPlease, try later";
+"filter_view_title" = "Filter";
+"filter_view_cancel" = "Cancel";
+"filter_view_reset" = "Reset filters";
+"filter_view_apply_filters" = "Apply filters";
+"status_title" = "Status";
+"gender_title" = "Gender";
+"species_title" = "Species";
+"origin_title" = "Origin";
+"last_location_title" = "Last location";
+"filter_view_status_alive" = "Alive";
+"filter_view_status_dead" = "Dead";
+"filter_view_gender_male" = "Male";
+"filter_view_gender_female" = "Female";
+"filter_view_unknown" = "Unknown";
+"filter_view_none" = "None";
+"location_unknown" = "Unknown";
